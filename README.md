@@ -39,6 +39,6 @@ Este projeto demonstra como trabalhar com formulários em React usando os hooks 
    ```bash
    yarn dev
 
-Esse resumo destaca as principais funcionalidades do seu demo, explicando como o código trabalha com o formulário, além de orientar sobre como executar o projeto. Você pode ajustar o texto conforme necessário para se adequar melhor ao contexto do seu repositório!
+Esse projeto é um exemplo prático de como capturar e exibir dados de formulários em uma aplicação React de forma simples e eficiente.
 
 

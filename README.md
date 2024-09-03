@@ -27,12 +27,12 @@ Este projeto demonstra como trabalhar com formulários em React usando os hooks 
 1. Clone o repositório:
    ```bash
    
-   git clone git@github.com:wellingtonrsdev/Introducao-form-react.git
+   git clone git@github.com:wellingtonrsdev/introducao-form-react.git
 
 2. Instale as dependências:
 
     ```bash
-   yarn install
+   yarn 
 
 3. Executar o projeto:
 
